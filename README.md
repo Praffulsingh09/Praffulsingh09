@@ -11,6 +11,7 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
+    
 * 🔭 I’m currently working on **Python Data Analysis Project**
 
 * 🌱 I’m currently learning **Business Intelligence Tools**
@@ -56,6 +57,16 @@
 <details>
     <summary><b>📈 My GitHub Stats</b></summary>
     <br />
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praffulsingh09&show_icons=true&locale=en&layout=compact" alt="praffulsingh09" /></p>
-    <br />
+<p align="center">
+  <!-- Container for side-by-side images -->
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <!-- Most Used Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praffulsingh09&show_icons=true&theme=dark&layout=compact" alt="Most Used Languages" width="45%" height="200px" />
+    <!-- Contribution Graph -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=praffulsingh09&theme=dark" alt="Contribution Graph" width="45%" height="200px" />
+  </div>
+</p>
+
+
+<br />
 </details>
