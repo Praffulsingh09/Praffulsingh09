@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prafful Singh</h1>
 <h3 align="center">Your go-to Data Analyst from India</h3>
 
+![](https://github.com/PraffulSinghProfile/hey.gif)
 
 - 🔭 I’m currently working on **Python Data Analysis Project**
 
