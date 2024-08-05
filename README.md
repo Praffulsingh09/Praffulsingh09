@@ -1,8 +1,7 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/098f3f7d-aa57-48e3-a043-d5baa76bc9d0" alt="hey"/>
+  <img src="https://github.com/user-attachments/assets/cedc7524-7f81-41d0-b754-7a3a5a59ed88" alt="hii"/>
 </p>
-
 
 
 # ✨ Hi folks, I'm Prafful Singh
