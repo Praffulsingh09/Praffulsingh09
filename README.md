@@ -4,24 +4,31 @@
 </p>
 
 
-# ✨ Hi folks, I'm Prafful Singh
+<h2 align="center">✨ Hi there, I'm Prafful Singh</h2>
+<h3 align="center">Business Analyst | Data Enthusiast | Problem Solver</h3>
 
-**`Data Analyst`**
+🔍 Currently working as a **Business Analyst at Visdum**, where I turn business goals into data-backed strategies and collaborate across teams to drive impact.
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    
-* 🔭 I’m currently working on **Python Data Analysis Project**
+📊 I love translating data into actionable insights using tools like **SQL**, **Python**, **Power BI**, and **Excel**.
 
-* 🌱 I’m currently learning **Business Intelligence Tools**
+🧠 Learning never stops! I’m currently sharpening my skills in **Business Intelligence**, **Data Visualization**, and **Product Analytics**.
 
-* 👨‍💻 All of my projects are available [here](https://praffulsingh09.github.io/PraffulSinghPortfolio.github.io/)
+💡 My interests lie in:
+- Data Cleaning & Analysis
+- Dashboard & Report Building
+- Business Strategy & Product Insight
+- Process Automation
+- Project Collaboration using **JIRA**
 
-* 💬 Ask me about **SQL,Pandas**
-  
-* ⚡ Fun fact **I can turn messy datasets into gold**
+📁 Check out my projects below — from **Netflix Data Analysis** to **Real-world dashboards** and more.
 
-* ✉️ You can contact me at [singhprafful001@gmail.com](mailto:singhprafful001@gmail.com)
+💬 Let’s connect: Have questions about SQL, data analysis, or transitioning into analytics? I’m always up for a conversation!
+
+📫 **Email:** singhprafful001@gmail.com  
+🌐 **LinkedIn:** [linkedin.com/in/prafful-singh](https://www.linkedin.com/in/prafful-singh)
+
+⚡ *Fun fact:* I find joy in turning messy datasets into clean, meaningful stories!
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praffulsingh09&label=Profile%20views&color=0e75b6&style=flat" alt="praffulsingh09" /> </p>
 
@@ -39,8 +46,15 @@
 
 ### ✨ About me
 
-  Ever wondered how data can tell a compelling story?
-  I'm Prafful Singh, your go-to data analyst who thrives on transforming complex numbers into clear, actionable insights. With a Master's degree in Mathematics and a deep passion for data analysis, I specialize in uncovering the hidden narratives within datasets. My expertise spans statistical methods, data visualization, and advanced mathematical techniques, all aimed at driving data-driven decisions and impactful projects. I am dedicated to turning raw data into strategic insights, helping businesses and organizations navigate their most pressing challenges.
+Ever wondered how data can shape smarter decisions?
+
+I'm Prafful Singh, currently working as a Business Analyst at Visdum, where I help transform business goals into data-backed strategies. With a Master's in Mathematics and a passion for analytical problem-solving, I specialize in turning complex data into clear, actionable insights.
+
+My journey has taken me from academic research and teaching to real-world business analytics — combining deep statistical understanding with hands-on tools like SQL, Python, Power BI, Excel, and JIRA. I work across both data analysis and project management, ensuring smooth execution and team collaboration throughout the project lifecycle.
+
+Whether it's improving decision-making, streamlining operations, or delivering meaningful recommendations, I believe data has the power to guide impactful change.
+
+Let’s connect and explore how insights can lead to innovation!
 
 ---
 
