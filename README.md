@@ -7,7 +7,7 @@
 <h2 align="center">✨ Hi there, I'm Prafful Singh</h2>
 <h3 align="center">Business Analyst | Data Enthusiast | Problem Solver</h3>
 
-🔍 Currently working as a **Business Analyst at Visdum**, where I turn business goals into data-backed strategies and collaborate across teams to drive impact.
+🔍 Currently working as a **Business Analyst**, where I turn business goals into data-backed strategies and collaborate across teams to drive impact.
 
 📊 I love translating data into actionable insights using tools like **SQL**, **Python**, **Power BI**, and **Excel**.
 
