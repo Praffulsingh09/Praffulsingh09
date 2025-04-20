@@ -25,7 +25,7 @@
 💬 Let’s connect: Have questions about SQL, data analysis, or transitioning into analytics? I’m always up for a conversation!
 
 📫 **Email:** singhprafful001@gmail.com  
-🌐 **LinkedIn:** [linkedin.com/in/prafful-singh](https://www.linkedin.com/in/praffulsingh09)
+🌐 **LinkedIn:** [Prafful Singh](https://www.linkedin.com/in/praffulsingh09)
 
 ⚡ *Fun fact:* I find joy in turning messy datasets into clean, meaningful stories!
 
